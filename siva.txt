@@ -1,6 +1,3 @@
-hi siva how r u.
-fine
-who rwho am i
-hi
-ls
-ko
+Welcome to HCL
+This is siva.
+My EMP ID 51903666
