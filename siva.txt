@@ -1,4 +1,5 @@
-Welcome to HCL
+<<<<<<< HEAD
+Welcome to HCL Tech.
 This is siva.
-Hi Siva
-My EMP ID 51903666
+Hi Siva.
+My EMP ID 51903666.
