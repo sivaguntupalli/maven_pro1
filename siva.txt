@@ -1,6 +1,2 @@
-hi siva how r u.
-fine
-who rwho am i
-hi
-ls
-ko
+Welcome to HCL tech.
+This is Siva.
